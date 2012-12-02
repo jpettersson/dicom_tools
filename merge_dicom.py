@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import dicom
 from numpy import *
 import sys 
